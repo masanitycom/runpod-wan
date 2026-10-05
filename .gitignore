@@ -1,0 +1,6 @@
+refs/*
+drive/*
+output/*
+!refs/.gitkeep
+!drive/.gitkeep
+!output/.gitkeep
